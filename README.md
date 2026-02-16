@@ -6,7 +6,7 @@ The primary goal was to dissect and replicate high-quality web animations and la
 
 ## 🚀 Live Demo
 
-[Link to Live Demo](https://your-username.github.io/your-repo-name/) 
+[Link to Live Demo](https://jve021.github.io/Web-animation/index.html) 
 *(Replace with your actual deployment link if available)*
 
 ## ✨ Key Features
